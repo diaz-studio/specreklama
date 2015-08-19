@@ -1,0 +1,1807 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sydney v1.03\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-05-08 13:18+0200\n"
+"Last-Translator: admin <dyba03@yandex.ua>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ sydney
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Страница не найдена"
+
+# @ sydney
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Похоже, что здесь ничего нет. Попробуйте использовать функцию поиска."
+
+# @ sydney
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ sydney
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ sydney
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+# @ sydney
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+# @ sydney
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+# @ sydney
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+# @ sydney
+#: content-none.php:19
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы создать свою первую запись? <a href=\"%1$s\">Начните сейчас</a>."
+
+# @ sydney
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по заданным условиям поиска ничего не найдено. Попробуйте поиск по другим ключевым словам."
+
+# @ sydney
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что Вы ищете. Попробуйте воспользоваться поиском по сайту."
+
+# @ sydney
+#: content-page.php:18 content-single.php:29 content.php:34
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ sydney
+#: content-page.php:25 inc/template-tags.php:118
+msgid "Edit"
+msgstr "Изменить"
+
+# @ sydney
+#: footer.php:22
+msgid "http://wordpress.org/"
+msgstr ""
+
+# @ sydney
+#: footer.php:22
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+# @ sydney
+#: footer.php:24
+#, php-format
+msgid "Theme: %2$s by %1$s."
+msgstr ""
+
+# @ sydney
+#: functions.php:56
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+# @ sydney
+#: functions.php:91
+msgid "Sidebar"
+msgstr "Сайдбар"
+
+# @ sydney
+#: functions.php:104
+msgid "Footer "
+msgstr "Футер"
+
+# @ sydney
+#: functions.php:218
+msgid "Create your menu here"
+msgstr "Создать свое меню здесь"
+
+# @ sydney
+#: header.php:31
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+# @ sydney
+#: inc/customizer.php:16
+msgid "Site title/tagline/logo"
+msgstr "Название сайта / слоган / логотип"
+
+# @ sydney
+#: inc/customizer.php:49
+msgid "General"
+msgstr "Общие настройки"
+
+# @ sydney
+#: inc/customizer.php:66
+msgid "Upload your favicon"
+msgstr "Загрузить свой фавикон"
+
+# @ sydney
+#: inc/customizer.php:79
+msgid "Header area"
+msgstr "Шапка"
+
+# @ sydney
+#: inc/customizer.php:85
+msgid "Header type"
+msgstr "Тип заголовка"
+
+# @ sydney
+#: inc/customizer.php:88
+msgid "You can select your header type from here. After that, continue below to the next two tabs (Header Slider and Header Image) and configure them."
+msgstr "Вы можете выбрать тип заголовка здесь."
+
+# @ sydney
+#: inc/customizer.php:103
+msgid "Front page header type"
+msgstr "Тип шапки на главной странице"
+
+# @ sydney
+#: inc/customizer.php:105
+msgid "Select the header type for your front page"
+msgstr "Выберите тип заголовка для первой страницы"
+
+# @ sydney
+#: inc/customizer.php:107 inc/customizer.php:129 inc/customizer.php:1581
+msgid "Full screen slider"
+msgstr "Слайдер"
+
+# @ sydney
+#: inc/customizer.php:108 inc/customizer.php:130 inc/customizer.php:1582
+msgid "Image"
+msgstr "Изображение"
+
+# @ sydney
+#: inc/customizer.php:109 inc/customizer.php:131
+msgid "No header (only menu)"
+msgstr "Нет заголовка (только меню)"
+
+# @ sydney
+#: inc/customizer.php:125
+msgid "Site header type"
+msgstr "Тип шапки"
+
+# @ sydney
+#: inc/customizer.php:127
+msgid "Select the header type for all pages except the front page"
+msgstr "Выберите тип заголовка по умолчанию для домашней страницы"
+
+# @ sydney
+#: inc/customizer.php:139
+msgid "Header Slider"
+msgstr "Слайдер"
+
+# @ sydney
+#: inc/customizer.php:140
+msgid "You can add up to 5 images in the slider. Make sure you select where to display your slider from the Header Type section found above. You can also add a Call to action button (scroll down to find the options)"
+msgstr "Вы можете добавить до 5 изображений в слайдере."
+
+# @ sydney
+#: inc/customizer.php:153
+msgid "First slide"
+msgstr "Первый слайд"
+
+# @ sydney
+#: inc/customizer.php:171
+msgid "Upload your first image for the slider"
+msgstr "Загрузить первое изображение для слайдера"
+
+# @ sydney
+#: inc/customizer.php:183
+msgid "Welcome to Sydney"
+msgstr ""
+
+# @ sydney
+#: inc/customizer.php:190
+msgid "Title for the first slide"
+msgstr "Название для первого слайда"
+
+# @ sydney
+#: inc/customizer.php:200
+msgid "Feel free to look around"
+msgstr ""
+
+# @ sydney
+#: inc/customizer.php:207
+msgid "Subtitle for the first slide"
+msgstr "Подзаголовок для первого слайда"
+
+# @ sydney
+#: inc/customizer.php:221
+msgid "Second slide"
+msgstr "Второй слайд"
+
+# @ sydney
+#: inc/customizer.php:239
+msgid "Upload your second image for the slider"
+msgstr "Загрузить второе изображение для слайдера"
+
+# @ sydney
+#: inc/customizer.php:251
+msgid "Ready to begin your journey?"
+msgstr ""
+
+# @ sydney
+#: inc/customizer.php:258
+msgid "Title for the second slide"
+msgstr "Название для второго слайда"
+
+# @ sydney
+#: inc/customizer.php:268
+msgid "Click the button below"
+msgstr ""
+
+# @ sydney
+#: inc/customizer.php:275
+msgid "Subtitle for the second slide"
+msgstr "Подзаголовок для второго слайда"
+
+# @ sydney
+#: inc/customizer.php:289
+msgid "Third slide"
+msgstr "Третий слайд"
+
+# @ sydney
+#: inc/customizer.php:307
+msgid "Upload your third image for the slider"
+msgstr "Загрузить третье изображение для слайдера"
+
+# @ sydney
+#: inc/customizer.php:326
+msgid "Title for the third slide"
+msgstr "Название для третьего слайда"
+
+# @ sydney
+#: inc/customizer.php:343
+msgid "Subtitle for the third slide"
+msgstr "Подзаголовок для третьего слайда"
+
+# @ sydney
+#: inc/customizer.php:357
+msgid "Fourth slide"
+msgstr "Четвертый слайд"
+
+# @ sydney
+#: inc/customizer.php:375
+msgid "Upload your fourth image for the slider"
+msgstr "Загрузить четвертое изображение для слайдера"
+
+# @ sydney
+#: inc/customizer.php:394
+msgid "Title for the fourth slide"
+msgstr "Название для четвертого слайда"
+
+# @ sydney
+#: inc/customizer.php:411
+msgid "Subtitle for the fourth slide"
+msgstr "Подзаголовок для четвертого слайда"
+
+# @ sydney
+#: inc/customizer.php:425
+msgid "Fifth slide"
+msgstr "Пятый слайд"
+
+# @ sydney
+#: inc/customizer.php:443
+msgid "Upload your fifth image for the slider"
+msgstr "Загрузить пятое изображение для слайдера"
+
+# @ sydney
+#: inc/customizer.php:462
+msgid "Title for the fifth slide"
+msgstr "Название для пятого слайда"
+
+# @ sydney
+#: inc/customizer.php:479
+msgid "Subtitle for the fifth slide"
+msgstr "Подзаголовок для пятого слайда"
+
+# @ sydney
+#: inc/customizer.php:493
+msgid "Call to action button"
+msgstr "Текст кнопки"
+
+# @ sydney
+#: inc/customizer.php:509
+msgid "URL for your call to action button"
+msgstr "Ссылка кнопки"
+
+# @ sydney
+#: inc/customizer.php:518
+msgid "Click to begin"
+msgstr "Нажмите, чтобы начать"
+
+# @ sydney
+#: inc/customizer.php:525
+msgid "Text for your call to action button"
+msgstr "Текст кнопки"
+
+# @ sydney
+#: inc/customizer.php:535 inc/customizer.php:574
+msgid "Menu style"
+msgstr "Стиль меню"
+
+# @ sydney
+#: inc/customizer.php:553
+msgid "Sticky menu"
+msgstr "Скользящее меню"
+
+# @ sydney
+#: inc/customizer.php:556 inc/customizer.php:1625
+msgid "Sticky"
+msgstr "Скользящее"
+
+# @ sydney
+#: inc/customizer.php:557 inc/customizer.php:1626
+msgid "Static"
+msgstr "Статическое"
+
+# @ sydney
+#: inc/customizer.php:577 inc/customizer.php:1651
+msgid "Inline"
+msgstr "Встроенное"
+
+# @ sydney
+#: inc/customizer.php:578 inc/customizer.php:1652
+msgid "Centered (menu and site logo)"
+msgstr "По центру (меню и логотип сайта)"
+
+# @ sydney
+#: inc/customizer.php:595
+msgid "Header background size"
+msgstr "Цвет фона шапки"
+
+# @ sydney
+#: inc/customizer.php:598 inc/customizer.php:1599
+msgid "Cover"
+msgstr "Обложка"
+
+# @ sydney
+#: inc/customizer.php:599 inc/customizer.php:1600
+msgid "Contain"
+msgstr "Вместить"
+
+# @ sydney
+#: inc/customizer.php:615
+msgid "Header height [default: 300px]"
+msgstr "Высота шапки [по умолчанию: 300px]"
+
+# @ sydney
+#: inc/customizer.php:636
+msgid "Upload your logo"
+msgstr "Загрузите логотип"
+
+# @ sydney
+#: inc/customizer.php:647
+msgid "Blog options"
+msgstr "Параметры блога"
+
+# @ sydney
+#: inc/customizer.php:659
+msgid "Layout"
+msgstr "Структура"
+
+# @ sydney
+#: inc/customizer.php:676
+msgid "Blog layout"
+msgstr "Структура блога"
+
+# @ sydney
+#: inc/customizer.php:680 inc/customizer.php:1637
+msgid "Classic"
+msgstr "Классический"
+
+# @ sydney
+#: inc/customizer.php:681 inc/customizer.php:1638
+msgid "Full width (no sidebar)"
+msgstr "Полная ширина (без сайдбара)"
+
+# @ sydney
+#: inc/customizer.php:682 inc/customizer.php:1639
+msgid "Masonry (grid style)"
+msgstr "Кирпичная кладка (стиль сетки)"
+
+# @ sydney
+#: inc/customizer.php:697
+msgid "Full width single posts?"
+msgstr "Полная ширина одиночных записей"
+
+# @ sydney
+#: inc/customizer.php:710
+msgid "Content/excerpt"
+msgstr "Содержимое или фрагмент записи"
+
+# @ sydney
+#: inc/customizer.php:728
+msgid "Check this box to display the full content of your posts on the home page."
+msgstr "Установите этот флажок, чтобы отобразить полное содержание ваших сообщений на домашней странице."
+
+# @ sydney
+#: inc/customizer.php:744
+msgid "Check this box to display the full content of your posts on all archives."
+msgstr "Установите этот флажок, чтобы отобразить полное содержание ваших сообщений на всех архивов."
+
+# @ sydney
+#: inc/customizer.php:761
+msgid "Excerpt lenght"
+msgstr "Длина записи"
+
+# @ sydney
+#: inc/customizer.php:762
+msgid "Choose your excerpt length. Default: 55 words"
+msgstr "Выберите длину отрывка. По умолчанию: 55 слов"
+
+# @ sydney
+#: inc/customizer.php:778
+msgid "Meta"
+msgstr ""
+
+# @ sydney
+#: inc/customizer.php:796
+msgid "Hide post meta on index, archives?"
+msgstr "Скрыть дополнительные поля записи для главной и архивов"
+
+# @ sydney
+#: inc/customizer.php:813
+msgid "Hide post meta on singles?"
+msgstr "Скрыть дополнительные поля записи для одиночных записей"
+
+# @ sydney
+#: inc/customizer.php:826
+msgid "Featured images"
+msgstr "Рекомендуемые изображения"
+
+# @ sydney
+#: inc/customizer.php:843
+msgid "Check this box to hide featured images on index, archives etc."
+msgstr "Установите этот флажок, если вы хотите скрыть изображение на главной странице блога и в архивах."
+
+# @ sydney
+#: inc/customizer.php:859
+msgid "Check this box to hide featured images on single posts"
+msgstr "Установите этот флажок, если вы хотите скрыть изображение для одиночных записей."
+
+# @ sydney
+#: inc/customizer.php:872
+msgid "Footer"
+msgstr "Футер"
+
+# @ sydney
+#: inc/customizer.php:888
+msgid "Footer widget area"
+msgstr "Область виджетов в подвале"
+
+# @ sydney
+#: inc/customizer.php:890
+msgid "Select the number of widget areas you want in the footer. After that, go to Appearance > Widgets and add your widgets."
+msgstr "Выберите количество столбцов для области виджета в футере"
+
+# @ sydney
+#: inc/customizer.php:892 inc/customizer.php:1611
+msgid "One"
+msgstr "Один"
+
+# @ sydney
+#: inc/customizer.php:893 inc/customizer.php:1612
+msgid "Two"
+msgstr "Два"
+
+# @ sydney
+#: inc/customizer.php:894 inc/customizer.php:1613
+msgid "Three"
+msgstr "Три"
+
+# @ sydney
+#: inc/customizer.php:895 inc/customizer.php:1614
+msgid "Four"
+msgstr "Четыре"
+
+# @ sydney
+#: inc/customizer.php:906
+msgid "Fonts"
+msgstr "Шрифты"
+
+# @ sydney
+#: inc/customizer.php:908
+msgid "Google Fonts can be found here: google.com/fonts. See the documentation if you need help in selecting Google Fonts: athemes.com/documentation/sydney"
+msgstr "Google Шрифты могут быть найдены здесь: google.com/fonts. Смотрите документацию, если вам нужна помощь в выборе шрифтов Google: athemes.com/documentation/sydney"
+
+# @ sydney
+#: inc/customizer.php:919
+msgid "Body fonts"
+msgstr "Шрифты сайта"
+
+# @ sydney
+#: inc/customizer.php:936 inc/customizer.php:984
+msgid "Font name/style/sets"
+msgstr "Стиль шрифта"
+
+# @ sydney
+#: inc/customizer.php:953 inc/customizer.php:1001
+msgid "Font family"
+msgstr "Семейство шрифта"
+
+# @ sydney
+#: inc/customizer.php:967
+msgid "Headings fonts"
+msgstr "Шрифт заголовка"
+
+# @ sydney
+#: inc/customizer.php:1015
+msgid "Font sizes"
+msgstr "Размеры шрифта"
+
+# @ sydney
+#: inc/customizer.php:1033 inc/customizer.php:1275
+msgid "Site title"
+msgstr "Заголовок сайта"
+
+# @ sydney
+#: inc/customizer.php:1053 inc/customizer.php:1296
+msgid "Site description"
+msgstr "Описание сайта"
+
+# @ sydney
+#: inc/customizer.php:1073
+msgid "Menu items"
+msgstr "Пункты меню"
+
+# @ sydney
+#: inc/customizer.php:1093
+msgid "H1 font size"
+msgstr ""
+
+# @ sydney
+#: inc/customizer.php:1113
+msgid "H2 font size"
+msgstr ""
+
+# @ sydney
+#: inc/customizer.php:1133
+msgid "H3 font size"
+msgstr ""
+
+# @ sydney
+#: inc/customizer.php:1153
+msgid "H4 font size"
+msgstr ""
+
+# @ sydney
+#: inc/customizer.php:1173
+msgid "H5 font size"
+msgstr ""
+
+# @ sydney
+#: inc/customizer.php:1193
+msgid "H6 font size"
+msgstr ""
+
+# @ sydney
+#: inc/customizer.php:1213
+msgid "Body font size"
+msgstr "Размер основного шрифта"
+
+# @ sydney
+#: inc/customizer.php:1235
+msgid "Primary color"
+msgstr "Основной цвет"
+
+# @ sydney
+#: inc/customizer.php:1255
+msgid "Menu background"
+msgstr "Фон панели меню"
+
+# @ sydney
+#: inc/customizer.php:1316
+msgid "Top level menu items"
+msgstr "Пункты меню верхнего уровня"
+
+# @ sydney
+#: inc/customizer.php:1336
+msgid "Sub-menu items"
+msgstr "Пункты подменю"
+
+# @ sydney
+#: inc/customizer.php:1355
+msgid "Sub-menu background"
+msgstr "Фон подменю"
+
+# @ sydney
+#: inc/customizer.php:1375
+msgid "Header slider text"
+msgstr "Текст заголовка слайдера"
+
+# @ sydney
+#: inc/customizer.php:1395
+msgid "Body text"
+msgstr "Основной текст"
+
+# @ sydney
+#: inc/customizer.php:1415
+msgid "Sidebar background"
+msgstr "Цвет фона боковой панели"
+
+# @ sydney
+#: inc/customizer.php:1435
+msgid "Sidebar color"
+msgstr "Цвет шрифта сайдбара"
+
+# @ sydney
+#: inc/customizer.php:1455
+msgid "Footer widget area background"
+msgstr "Цвет фона виджетов в подвале"
+
+# @ sydney
+#: inc/customizer.php:1475
+msgid "Footer widget area color"
+msgstr "Цвет виджетов в подвале"
+
+# @ sydney
+#: inc/customizer.php:1495
+msgid "Footer background"
+msgstr "Цвет фона футера"
+
+# @ sydney
+#: inc/customizer.php:1515
+msgid "Footer color"
+msgstr "Цвет текста в подвале"
+
+# @ sydney
+#: inc/customizer.php:1534
+msgid "Rows overlay"
+msgstr "Наложение"
+
+# @ sydney
+#: inc/customizer.php:1549
+msgid "Theme info"
+msgstr ""
+
+# @ sydney
+#: inc/customizer.php:1551
+msgid "1. Documentation for Sydney can be found "
+msgstr ""
+
+# @ sydney
+#: inc/customizer.php:1551
+msgid "2. A full theme demo can be found "
+msgstr ""
+
+# @ sydney
+#: inc/customizer.php:1551
+msgid "3. If you enjoy Sydney and want to see what Sydney Pro offers, please go "
+msgstr ""
+
+# @ sydney
+#: inc/customizer.php:1583
+msgid "Nothing (only menu)"
+msgstr "Ничего (только меню)"
+
+# @ sydney
+#: inc/extras.php:52
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+# @ sydney
+#: inc/page-builder.php:43
+msgid "Sydney Theme Widgets"
+msgstr ""
+
+# @ sydney
+#: inc/page-builder.php:56
+msgid "Bottom Border Color"
+msgstr "Цвет нижней границы"
+
+# @ sydney
+#: inc/page-builder.php:61
+msgid "Top/bottom padding"
+msgstr "Отступ снизу и сверху"
+
+# @ sydney
+#: inc/page-builder.php:63
+msgid "Top and bottom padding for this row [default: 100px]"
+msgstr "Отступ снизу и сверху (по умолчанию 100px)"
+
+# @ sydney
+#: inc/page-builder.php:67
+msgid "Center align the content?"
+msgstr "Dыровнять содержание по центру?"
+
+# @ sydney
+#: inc/page-builder.php:69
+msgid "This may or may not work. It depends on the widget styles."
+msgstr "Это может или не может работать. Это зависит от стилей виджетов."
+
+# @ sydney
+#: inc/page-builder.php:73
+msgid "Background Color"
+msgstr "Цвет фона"
+
+# @ sydney
+#: inc/page-builder.php:75
+msgid "Background color of the row."
+msgstr "Цвет фона строки."
+
+# @ sydney
+#: inc/page-builder.php:79
+msgid "Color"
+msgstr "Цвет"
+
+# @ sydney
+#: inc/page-builder.php:81
+msgid "Color of the row."
+msgstr "Цвет строки."
+
+# @ sydney
+#: inc/page-builder.php:85
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+# @ sydney
+#: inc/page-builder.php:87
+msgid "Background image of the row."
+msgstr "Фоновое изображение строки."
+
+# @ sydney
+#: inc/page-builder.php:91
+msgid "Row Layout"
+msgstr "Выберите формат строки"
+
+# @ sydney
+#: inc/page-builder.php:94
+msgid "Standard"
+msgstr "Стандартный"
+
+# @ sydney
+#: inc/page-builder.php:95
+msgid "Full Width"
+msgstr "Полная ширина"
+
+# @ sydney
+#: inc/page-builder.php:96
+msgid "Full Width Stretched"
+msgstr "Одноколоночный шаблон растянутый"
+
+# @ sydney
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Навигация по записям"
+
+# @ sydney
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Предыдущие записи"
+
+# @ sydney
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Новые записи"
+
+# @ sydney
+#: inc/template-tags.php:51
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+# @ sydney
+#: inc/template-tags.php:81
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубликовано: %s"
+
+# @ sydney
+#: inc/template-tags.php:86
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+# @ sydney
+#: inc/template-tags.php:94
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+# @ sydney
+#: inc/template-tags.php:94
+msgid "1 Comment"
+msgstr "Один комментарий"
+
+# @ sydney
+#: inc/template-tags.php:94
+msgid "% Comments"
+msgstr "Комментариев: %"
+
+# @ sydney
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:98 inc/template-tags.php:113
+msgid ", "
+msgstr ""
+
+# @ sydney
+#: inc/template-tags.php:100
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Категория: %1$s"
+
+# @ sydney
+#: inc/template-tags.php:115
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+# @ sydney
+#: inc/template-tags.php:135
+#, php-format
+msgid "Category: %s"
+msgstr "Категория: %s"
+
+# @ sydney
+#: inc/template-tags.php:137
+#, php-format
+msgid "Tag: %s"
+msgstr "Метка: %s"
+
+# @ sydney
+#: inc/template-tags.php:139
+#, php-format
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+# @ sydney
+#: inc/template-tags.php:141
+#, php-format
+msgid "Year: %s"
+msgstr "Год: %s"
+
+# @ sydney
+#: inc/template-tags.php:141
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ sydney
+#: inc/template-tags.php:143
+#, php-format
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+# @ sydney
+#: inc/template-tags.php:143
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+# @ sydney
+#: inc/template-tags.php:145
+#, php-format
+msgid "Day: %s"
+msgstr "День: %s"
+
+# @ sydney
+#: inc/template-tags.php:145
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+# @ sydney
+#: inc/template-tags.php:148
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Заметки"
+
+# @ sydney
+#: inc/template-tags.php:150
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Галереи"
+
+# @ sydney
+#: inc/template-tags.php:152
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Изображения"
+
+# @ sydney
+#: inc/template-tags.php:154
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Видео"
+
+# @ sydney
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Цитаты"
+
+# @ sydney
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Ссылки"
+
+# @ sydney
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Статусы"
+
+# @ sydney
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Аудио"
+
+# @ sydney
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Чаты"
+
+# @ sydney
+#: inc/template-tags.php:167
+#, php-format
+msgid "Archives: %s"
+msgstr "Архивы: %s"
+
+# @ sydney
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:171
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+# @ sydney
+#: inc/template-tags.php:173
+msgid "Archives"
+msgstr "Архивы"
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+# @ sydney
+#: plugins/class-tgm-plugin-activation.php:165
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ sydney
+#: plugins/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ sydney
+#: plugins/class-tgm-plugin-activation.php:167
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ sydney
+#: plugins/class-tgm-plugin-activation.php:168
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ sydney
+#: plugins/class-tgm-plugin-activation.php:169
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ sydney
+#: plugins/class-tgm-plugin-activation.php:170
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ sydney
+#: plugins/class-tgm-plugin-activation.php:171
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ sydney
+#: plugins/class-tgm-plugin-activation.php:172
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ sydney
+#: plugins/class-tgm-plugin-activation.php:173
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ sydney
+#: plugins/class-tgm-plugin-activation.php:174
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:177
+#: plugins/class-tgm-plugin-activation.php:1945
+msgid "Plugin activated successfully."
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:534
+#: plugins/class-tgm-plugin-activation.php:2162
+msgid "Return to the Dashboard"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:1169
+msgid "Private Repository"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:1172
+msgid "Pre-Packaged"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:1177
+msgid "WordPress Repository"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:1180
+msgid "Required"
+msgstr "Обязательно"
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:1180
+msgid "Recommended"
+msgstr "Рекомендуемые"
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:1183
+msgid "Not Installed"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:1185
+msgid "Installed But Not Activated"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:1290
+#: plugins/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:1312
+#: plugins/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:1361
+#, php-format
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:1380
+msgid "Status"
+msgstr ""
+
+# @ tgmpa
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: plugins/class-tgm-plugin-activation.php:1636
+#: plugins/class-tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:1928
+msgid "Install package not available."
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:1929
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:1930
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:1931
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:1932
+msgid "Plugin install failed."
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:1933
+msgid "Plugin installed successfully."
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:1944
+msgid "Plugin activation failed."
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:2058
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:2059
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:2059
+#: plugins/class-tgm-plugin-activation.php:2068
+msgid "Show Details"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:2059
+#: plugins/class-tgm-plugin-activation.php:2068
+msgid "Hide Details"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:2060
+msgid "All installations and activations have been completed."
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:2065
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:2066
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:2068
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:2069
+msgid "All installations have been completed."
+msgstr ""
+
+# @ tgmpa
+#: plugins/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ sydney
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+# @ sydney
+#: widgets/contact-info.php:6
+msgid "Display your contact info"
+msgstr "Показать контакты"
+
+# @ sydney
+#: widgets/contact-info.php:7
+msgid "Sydney: Contact info"
+msgstr "Контактная информация"
+
+# @ sydney
+#: widgets/contact-info.php:24 widgets/fp-call-to-action.php:22
+#: widgets/fp-clients.php:25 widgets/fp-employees.php:25
+#: widgets/fp-facts.php:36 widgets/fp-latest-news.php:22
+#: widgets/fp-services-type-a.php:31 widgets/fp-services-type-b.php:31
+#: widgets/fp-skills.php:28 widgets/fp-testimonials.php:25
+#: widgets/video-widget.php:21
+msgid "Title"
+msgstr "Заголовок"
+
+# @ sydney
+#: widgets/contact-info.php:28
+msgid "Enter your address"
+msgstr "Введите ваш адрес здесь"
+
+# @ sydney
+#: widgets/contact-info.php:31
+msgid "Enter your phone number"
+msgstr "Введите ваш номер телефона"
+
+# @ sydney
+#: widgets/contact-info.php:34
+msgid "Enter your email address"
+msgstr "Введите адрес электронной почты"
+
+# @ sydney
+#: widgets/contact-info.php:81
+msgid "Contact info"
+msgstr "Контактная информация"
+
+# @ sydney
+#: widgets/fp-call-to-action.php:6
+msgid "Display a call to action block."
+msgstr "Текст кнопки"
+
+# @ sydney
+#: widgets/fp-call-to-action.php:7
+msgid "Sydney FP: Call to action"
+msgstr "Текст кнопки"
+
+# @ sydney
+#: widgets/fp-call-to-action.php:24
+msgid "Enter your call to action."
+msgstr "Текст кнопки"
+
+# @ sydney
+#: widgets/fp-call-to-action.php:26
+msgid "Link for the button"
+msgstr "Ссылка для кнопки"
+
+# @ sydney
+#: widgets/fp-call-to-action.php:28
+msgid "Title for the button"
+msgstr "Название для кнопки"
+
+# @ sydney
+#: widgets/fp-call-to-action.php:31
+msgid "Display the button inline with the text?"
+msgstr "Отображение кнопки баннера с текстом?"
+
+# @ sydney
+#: widgets/fp-clients.php:6
+msgid "Display your clients list."
+msgstr "Отображение списка клиентов."
+
+# @ sydney
+#: widgets/fp-clients.php:7
+msgid "Sydney FP: Clients"
+msgstr "Клиенты"
+
+# @ sydney
+#: widgets/fp-clients.php:23
+msgid "In order to display this widget, you must first add some clients from your admin area. Set your client logos as featured images."
+msgstr ""
+
+# @ sydney
+#: widgets/fp-clients.php:28
+msgid "Number of clients to show (-1 shows all of them):"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-clients.php:30
+msgid "The URL for your button [In case you want a button below your clients block]"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-clients.php:32
+msgid "The text for the button [Defaults to <em>See all our clients</em> if left empty]"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-clients.php:34
+msgid "Enter the slug for your category or leave empty to show all clients."
+msgstr ""
+
+# @ sydney
+#: widgets/fp-clients.php:128
+msgid "See all our clients"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-employees.php:6
+msgid "Display your team members in a stylish way."
+msgstr ""
+
+# @ sydney
+#: widgets/fp-employees.php:7
+msgid "Sydney FP: Employees"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-employees.php:23
+msgid "In order to display this widget, you must first add some employees from the dashboard. Add as many as you want and the theme will automatically display them all."
+msgstr ""
+
+# @ sydney
+#: widgets/fp-employees.php:28
+msgid "Number of employees to show (-1 shows all of them):"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-employees.php:30
+msgid "Enter an URL here if you want to section to link somewhere."
+msgstr ""
+
+# @ sydney
+#: widgets/fp-employees.php:32
+msgid "The text for the button [Defaults to <em>See all our employees</em> if left empty]"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-employees.php:34
+msgid "Enter the slug for your category or leave empty to show all employees."
+msgstr ""
+
+# @ sydney
+#: widgets/fp-employees.php:164
+msgid "See all our employees"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-facts.php:7
+msgid "Show your visitors some facts about your company."
+msgstr ""
+
+# @ sydney
+#: widgets/fp-facts.php:8
+msgid "Sydney FP: Facts"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-facts.php:34
+msgid "You can find a list of the available icons "
+msgstr ""
+
+# @ sydney
+#: widgets/fp-facts.php:34
+msgid "here."
+msgstr ""
+
+# @ sydney
+#: widgets/fp-facts.php:34
+msgid "Usage example: <strong>fa-android</strong>"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-facts.php:42
+msgid "First fact name"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-facts.php:47
+msgid "First fact value"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-facts.php:52
+msgid "First fact icon"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-facts.php:58
+msgid "Second fact name"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-facts.php:63
+msgid "Second fact value"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-facts.php:68
+msgid "Second fact icon"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-facts.php:74
+msgid "Third fact name"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-facts.php:79
+msgid "Third fact value"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-facts.php:84
+msgid "Third fact icon"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-facts.php:90
+msgid "Fourth fact name"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-facts.php:95
+msgid "Fourth fact value"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-facts.php:100
+msgid "Fourth fact icon"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-latest-news.php:6
+msgid "Show the latest news from your blog."
+msgstr ""
+
+# @ sydney
+#: widgets/fp-latest-news.php:7
+msgid "Sydney FP: Latest News"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-latest-news.php:26
+msgid "Enter the slug for your category or leave empty to show posts from all categories."
+msgstr ""
+
+# @ sydney
+#: widgets/fp-latest-news.php:29
+msgid "Add the text for the button here if you want to change the default <em>See all our news</em>"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-latest-news.php:79 widgets/fp-latest-news.php:81
+msgid "See all our news"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-list.php:11
+msgid "A simple list widget"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-list.php:13
+msgid "Sydney FP: List"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-list.php:63 widgets/fp-social.php:57
+msgid "Title:"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-list.php:66
+msgid "Add a bit of text here. It will be displayed."
+msgstr ""
+
+# @ sydney
+#: widgets/fp-list.php:69
+msgid "Add your list items here. One item per row, start each row with <strong>^</strong>. Example: <strong>^ list item </strong>"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-list.php:72
+msgid "Call to action button URL:"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-list.php:75
+msgid "Call to action button text:"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-services-type-a.php:11 widgets/fp-services-type-b.php:11
+msgid "Show what services you are able to provide."
+msgstr ""
+
+# @ sydney
+#: widgets/fp-services-type-a.php:12
+msgid "Sydney FP: Services Type A"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-services-type-a.php:29 widgets/fp-services-type-b.php:29
+msgid "In order to display this widget, you must first add some services from your admin area."
+msgstr ""
+
+# @ sydney
+#: widgets/fp-services-type-a.php:34 widgets/fp-services-type-b.php:34
+msgid "Number of services to show (-1 shows all of them):"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-services-type-a.php:36 widgets/fp-services-type-b.php:36
+msgid "The URL for your button [In case you want a button below your services block]"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-services-type-a.php:38 widgets/fp-services-type-b.php:38
+msgid "The text for the button [Defaults to <em>See all our services</em> if left empty]"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-services-type-a.php:40 widgets/fp-services-type-b.php:40
+msgid "Enter the slug for your category or leave empty to show all services."
+msgstr ""
+
+# @ sydney
+#: widgets/fp-services-type-a.php:43
+msgid "Display services in two columns instead of three?"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-services-type-a.php:149 widgets/fp-services-type-b.php:164
+msgid "See all our services"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-services-type-b.php:12
+msgid "Sydney FP: Services type B"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-services-type-b.php:43
+msgid "Number of columns:"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-skills.php:6
+msgid "Show your visitors some of your skills."
+msgstr ""
+
+# @ sydney
+#: widgets/fp-skills.php:7
+msgid "Sydney FP: Skills"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-skills.php:34
+msgid "First skill name"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-skills.php:39
+msgid "First skill value"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-skills.php:45
+msgid "Second skill name"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-skills.php:50
+msgid "Second skill value"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-skills.php:56
+msgid "Third skill name"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-skills.php:61
+msgid "Third skill value"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-skills.php:67
+msgid "Fourth skill name"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-skills.php:72
+msgid "Fourth skill value"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-social.php:5
+msgid "Display your social profile on your front page"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-social.php:6
+msgid "Sydney FP: Social Profile"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-social.php:52
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+# @ sydney
+#: widgets/fp-social.php:60
+msgid "In order to display your social icons in a widget, all you need to do is go to <strong>Appearance > Menus</strong> and create a menu containing links to your social profiles, then assign that menu here. Supported networks: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+msgstr ""
+
+# @ sydney
+#: widgets/fp-social.php:62
+msgid "Select your social menu:"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-social.php:64
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-testimonials.php:6
+msgid "Display your testimonials in a slider."
+msgstr ""
+
+# @ sydney
+#: widgets/fp-testimonials.php:7
+msgid "Sydney FP: Testimonials"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-testimonials.php:23
+msgid "In order to display this widget, you must first add some testimonials from your admin area."
+msgstr ""
+
+# @ sydney
+#: widgets/fp-testimonials.php:28
+msgid "Number of testimonials to show (-1 shows all of them):"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-testimonials.php:30
+msgid "The URL for your button [In case you want a button below your testimonials block]"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-testimonials.php:32
+msgid "The text for the button [Defaults to <em>See all our testimonials</em> if left empty]"
+msgstr ""
+
+# @ sydney
+#: widgets/fp-testimonials.php:34
+msgid "Enter the slug for your category or leave empty to show all testimonials."
+msgstr ""
+
+# @ sydney
+#: widgets/fp-testimonials.php:131
+msgid "See all our testimonials"
+msgstr ""
+
+# @ sydney
+#: widgets/video-widget.php:6
+msgid "Display a video from Youtube, Vimeo etc."
+msgstr ""
+
+# @ sydney
+#: widgets/video-widget.php:7
+msgid "Sydney: Video"
+msgstr ""
+
+# @ sydney
+#: widgets/video-widget.php:25
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr ""
