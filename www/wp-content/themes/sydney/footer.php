@@ -19,9 +19,9 @@
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info container">
-			<a href="https://wordpress.org/themes/sydney/" target="_blank">Sydney</a>
-			<span class="sep"> | </span>
-			<a href="http://vkusnodoma.net/" title="домашние рецепты с фото" target="_blank">рецепты фото</a>
+			<a href="https://diaz.in.ua" target="_blank" title="Создание сайтов"> Diaz-Studio</a>
+			<span class="sep">  </span>
+			<a href="" title="" target="_blank"></a>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->

@@ -325,3 +325,4 @@ class Get_links {
         return '<!--link error-->';
     }
 }
+
