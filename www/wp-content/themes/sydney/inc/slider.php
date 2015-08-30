@@ -79,7 +79,7 @@ function sydney_slider_template() {
                     <?php endif; ?>                                        
                 </ul>
             </div>
-            <?php $slider_button = get_theme_mod('slider_button_text', 'Click to begin'); ?>
+            <?php $slider_button = get_theme_mod('slider_button_text', 'НАЖМИТЕ, ЧТОБЫ НАЧАТЬ'); ?>
             <?php if ($slider_button) : ?>
                 <a href="<?php echo esc_url(get_theme_mod('slider_button_url','#primary')); ?>" class="roll-button button-slider"><?php echo esc_html($slider_button); ?></a>
             <?php endif; ?>
